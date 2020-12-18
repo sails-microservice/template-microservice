@@ -1,0 +1,3 @@
+[submodule "shared"]
+	path = shared
+	url = https://steveaverty@github.com/sails-microservice/shared.git
